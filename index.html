@@ -9,7 +9,7 @@
         <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/styles.css">
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js">
+        <script src="scripts/script.js"></script>
 
 
     </head>
@@ -17,8 +17,10 @@
         <div class="content">
         <div class="container">
             <h1>Akan Name Generator</h1>
-            <h3>What is an Akan Name?</h3>
-            <p>This is a West African naming style mainly in Ghana and Togo that generates a name based on the day of the week you were born and your gender. </p>
+            <!-- <h3>What is an Akan Name?</h3> -->
+            <p> <a class="search" href="https://en.wikipedia.org/wiki/Akan_names" target="_blank">Akan names</a> are a West African naming system based mainly in Ghana and Togo that indicates what to name a child based on the day of the week they were born and their gender. </p>
+            <p>Care to find out what your name would be if you were from Ghana?</p>
+            <p>Input your date of birth  and gender below to find out your new name</p>
             <form class="myform" onsubmit="return getAkanName()">
                 <label for="year-of-birth">
                     Year:
@@ -43,19 +45,19 @@
                     <input id="female-input" type="radio" name="gender" value="female" required>
 
                 </label>
-                <br>
+                <br><br>
                 <input id="get-name" type="submit" value="Generate name">
-                <br>
+                <br><br>
             </form>
             <form onsubmit="return clearInput()">
                 <input class="clear" type="submit" value="Clear input">
             </form>
-
+            <h4 id= display-name> Your Akan name:</h4>
             <p id="result"></p>
 
         </div>
     </div>
-    <script src="script.js"></script>
+   
         
     </body>
 </html>
