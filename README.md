@@ -21,7 +21,7 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (git push origin improve-feature)
 - Create a Pull Request
 ## Known Bugs
-If you find a bug (the website couldn't handle the query and or gave undesired results), kindly reach out throug hakiunga@gmail.com and include your search query and the expected result.
+If you find a bug (the website couldn't handle the query and or gave undesired results), kindly reach out through hakiunga@gmail.com and include your search query and the expected result.
 If you'd like to request a new function, feel free to do so by contacting me through the above email. Please include sample queries and their corresponding results.
 ### License
 *MIT*
