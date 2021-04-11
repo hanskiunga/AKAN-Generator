@@ -1,15 +1,15 @@
 # My-Project
-Project entails a name generator for naming system used by the people of West Africa specifically Ghanians and Togolese
+Project entails a name generator for the Akan naming system used by the people of West Africa specifically Ghanians and Togolese
 ## Prerequisites
 Javascript, HTML and CSS knowledge
 ##### Technologies Used
-- Javscript, HTML & CSS
+- HTML, CSS & Javascript
 ##### Setup Instructions and Installation
-- Clone this repository to a location in your file system. `git clone https://github.com/YomZsamora/my-project.git`
+- Clone this repository to a location in your file system. `git clone https://github.com/hanskiunga/AKAN-Generator.git`
 - Open terminal command line then navigate to the root folder of the application. `cd AKAN-Generator`
 - Open `index.html` on your browser.
 ## Development
-Want to contribute? Great!
+Want to contribute? Awesome!
 To fix a bug or enhance an existing module, follow these steps:
 - Fork the repo
 - Create a new branch (git checkout -b improve-feature)
@@ -19,8 +19,8 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (git push origin improve-feature)
 - Create a Pull Request
 ## Known Bugs
-If you find a bug (the website couldn't handle the query and or gave undesired results), kindly open an issue here by including your search query and the expected result.
-If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
+If you find a bug (the website couldn't handle the query and or gave undesired results), kindly reach out throug hakiunga@gmail.com and include your search query and the expected result.
+If you'd like to request a new function, feel free to do so by contacting me through the above email. Please include sample queries and their corresponding results.
 ### License
 *MIT*
 Copyright (c) 2021 **Hans Kiunga**
