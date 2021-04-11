@@ -13,12 +13,12 @@ Hans Kiunga
 ##### Features
 
 A summary of the features:
-    Input year of birth.
-    Input month of birth.
-    Input day of birth.
-    Select gender.
-    Generate.
-    Output Akan Name.
+- Input year of birth.
+- Input month of birth.
+- Input day of birth.
+- Select gender
+- Generate
+- Output Akan Name.
 
 ##### Setup Instructions and Installation
 
