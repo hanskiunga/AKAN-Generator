@@ -38,8 +38,13 @@ function dayValidator () {
             return true;
         }
     }else if (dayOfBirth <1 || dayOfBirth >31){
-        
+      return false;  
+    }else {
+        return true;
     }
 }
+//validation variables
+let monthValid=monthValidator();
+let dayValid=dayValidator();
 
 }
