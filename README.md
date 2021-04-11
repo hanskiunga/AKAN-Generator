@@ -6,7 +6,7 @@ Project entails a name generator for the Akan naming system computed by providin
 
 Hans Kiunga
 
-##### Technologies Used
+## Technologies Used
 
 - HTML, CSS & Javascript
 
