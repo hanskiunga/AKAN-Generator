@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     font-size: 17px;
     font-family: 'Quicksand', sans-serif;
+    color: white;
 }
 .container{
     width: 80%;
@@ -22,6 +23,36 @@ body {
     box-shadow: 2px 2px #000000;
     border-radius: 1%;
   }
+
+  #year-input{
+      border-radius:5px;
+      box-shadow:2px 2px #f8fc06;
+      width: 100px;
+  }
+  #month-input{
+      border-radius: 5px;
+      box-shadow:2px 2px #f8fc06;
+      width: 60px;
+  }
+  #day-input{
+      border-radius: 5px;
+      box-shadow: 2px 2px #f8fc06;
+  }
+  #get-name{
+      border-radius: 5px;
+      box-shadow:2px 2px #000000 ;
+      color: goldenrod;
+      background-color: black;
+      width: 140px;
+  }
+  .clear{
+    border-radius: 5px;
+    box-shadow:2px 2px #000000 ;
+    color: goldenrod;
+    background-color: black;
+    width: 140px;
+
+  }
   
 h1{
     text-align: center;
@@ -29,6 +60,10 @@ h1{
     font-size: 36px;
     padding-top: 20px;
 }
-p{
-    color: white;
+.search {
+    color: goldenrod;
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(124, 236, 49);
 }

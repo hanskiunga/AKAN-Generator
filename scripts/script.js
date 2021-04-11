@@ -1,4 +1,3 @@
-
 function getAkanName () { 
     let yearOfBirth = document.getElementById("year-input").value;
     let monthOfBirth = Number(document.getElementById("month-input") .value);
@@ -74,7 +73,7 @@ function getAkanName () {
 
     console.log(index);
     if (myGenderValue =="male" && monthValid && dayValid){
-    document.getElementById('result').textContent ="You were born on a " + daysOfWeek[index] + " , your Akan name is" + maleAkanNames[index];
+    document.getElementById('result').textContent ="You were born on a  " +  daysOfWeek[index]  + " , your Akan name is " + maleAkanNames[index];
     document.getElementById('display-name').textContent = "Here is your Akan name: ";
     document.getElementById('result').style.fontsize = "19px";
     document.querySelector('h1').textContent = "Hello" + " " + maleAkanNames[index];
