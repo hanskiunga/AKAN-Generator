@@ -11,7 +11,7 @@ body {
 /* set content box properties */
 .content{
     background-color: #501717;
-    background-blend-mode: inherit;
+    background-blend-mode: screen;
     opacity: 0.9;
     /* height: 620px;  */
     margin-left: 20%;
