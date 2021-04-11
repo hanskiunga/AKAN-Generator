@@ -1,5 +1,7 @@
-# My-Project
-Project entails a name generator for the Akan naming system used by the people of West Africa specifically Ghanians and Togolese
+# Akan Name Generator
+Project entails a name generator for the Akan naming system computed by providing date of birth and gender.
+# Author
+Hans Kiunga
 ## Prerequisites
 Javascript, HTML and CSS knowledge
 ##### Technologies Used
