@@ -10,7 +10,7 @@ Hans Kiunga
 
 - HTML, CSS & Javascript
 
-##### Features
+# Features
 
 A summary of the features:
 - Input year of birth.
@@ -20,7 +20,7 @@ A summary of the features:
 - Generate
 - Output Akan Name.
 
-##### Setup Instructions and Installation
+## Setup Instructions and Installation
 
 - Clone this repository to a location in your file system. `git clone https://github.com/hanskiunga/AKAN-Generator.git`
 - Open terminal command line then navigate to the root folder of the application. `cd AKAN-Generator`
@@ -44,7 +44,7 @@ To fix a bug or enhance an existing module, follow these steps:
 If you find a bug (the website couldn't handle the query and or gave undesired results), kindly reach out through hakiunga@gmail.com and include your search query and the expected result.
 If you'd like to request a new function, feel free to do so by contacting me through the above email. Please include sample queries and their corresponding results.
 
-### License
+## License
 
 _MIT_
 Copyright (c) 2021 **Hans Kiunga**
