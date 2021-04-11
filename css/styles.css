@@ -14,7 +14,6 @@ body {
     background-color: #501717;
     background-blend-mode: screen;
     opacity: 0.9;
-    /* height: 620px;  */
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 10px;
@@ -24,6 +23,7 @@ body {
     border-radius: 1%;
   }
 
+  /* style input boxes */
   #year-input{
       border-radius:5px;
       box-shadow:2px 2px #f8fc06;
