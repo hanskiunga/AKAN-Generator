@@ -18,9 +18,10 @@
         <div class="container">
             <h1>Akan Name Generator</h1>
             <!-- <h3>What is an Akan Name?</h3> -->
+            <p>This is a web applicaton that takes in your birth date and computes the day of the week you were born then displays your Akan name depending on your gender as well.</p>
             <p> <a class="search" href="https://en.wikipedia.org/wiki/Akan_names" target="_blank">Akan names</a> are a West African naming system based mainly in Ghana and Togo that indicates what to name a child based on the day of the week they were born and their gender. </p>
-            <p>Care to find out what your name would be if you were from Ghana?</p>
-            <p>Input your date of birth  and gender below to find out your new name</p>
+            
+            <p>To find out your Akan name, enter your details in the form below then click on generate.</p>
             <form class="myform" onsubmit="return getAkanName()">
                 <label for="year-of-birth">
                     Year:
@@ -52,7 +53,8 @@
             <form onsubmit="return clearInput()">
                 <input class="clear" type="submit" value="Clear input">
             </form>
-            <h4 id= display-name> Your Akan name:</h4>
+            <br>
+            <h6 id= display-name> Your Akan name along with the day you were born should display below:</h6>
             <p id="result"></p>
 
         </div>
